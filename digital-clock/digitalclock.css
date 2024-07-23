@@ -1,0 +1,43 @@
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg,rgb(220, 103, 103) 100%);
+  flex-direction:column;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin:0;
+  padding:0;
+  color:white;
+}
+.wrap{
+  margin-top:150px;
+  width:300px;
+  height:300px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+ 
+}
+#heading{
+  margin-bottom:50px;
+}
+h1{
+  margin:0;
+}
+#clock{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+  
+}
+#time{
+  display:flex;
+  font-size:50px; 
+}
+
+#AM{
+  margin-left:20px;
+  color:rgb(175, 132, 132);
+}

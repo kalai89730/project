@@ -1,0 +1,24 @@
+.header{
+  display:flex;
+  margin:0;
+  color:red;
+  font-size:40px;
+  justify-content:space-between;
+}
+#span{
+  float:right;
+  margin-right:15px;
+}
+#but{
+height:40px;
+width:130px;
+background-color:rgb(46, 142, 176);
+color:rgb(6, 6, 6);
+}
+.color{
+  background-color:antiquewhite;
+  height:90vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
